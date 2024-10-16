@@ -131,4 +131,8 @@ body{
     .apresentacao__links__navegacao{
         width: 60%;
     }
+
+    .rodape {
+        margin-top: 10%;
+    }
 }
