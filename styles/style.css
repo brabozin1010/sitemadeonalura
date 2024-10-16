@@ -76,7 +76,7 @@ body{
     justify-content: center;
     gap: 16px;
     border: 2px solid var(--cor-terciaria);
-    width: 25%;
+    width: 40%;
     text-align: center;
     border-radius: 8px;
     font-size: 1.5rem;
@@ -122,5 +122,13 @@ body{
 
     .cabecalho__menu {
         gap: 40px;
+    }
+
+    .cabecalho{
+        padding-bottom: 5%;
+    }
+
+    .apresentacao__links__navegacao{
+        width: 60%;
     }
 }
